@@ -1,5 +1,5 @@
 package lab5;
-
+//ime klase velikim slovom (ovo vazi i za ostale kodove)
 public class volumenIPovrsina {
 	public static void main(String args[]){
 		double broj1=Math.random()*51;
